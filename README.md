@@ -45,7 +45,7 @@ Installation
 
 1. Clone the repository.
 
-git clone <repository-link>
+git clone <repositorhttps://github.com/MudasirNaeem1/KnowledgeRepresentationandReasoning-ML-AutomaticEssayEvaluation-ResearchPaperImplementation/tree/mainy-link>
 
 
 2. Install dependencies:
@@ -59,11 +59,7 @@ OntoGen Tool : https://ailab.ijs.si/wp-content/uploads/2022/05/OntoGen2-2007-11-
 Dataset : Download form Repository files
 
 
-
-
----
-
-Usage
+Usage:
 
 1. Place the .rdf ontology file in the /ontology directory.
 
@@ -84,29 +80,21 @@ ict.py --input new_essay.txt
 
 
 
-
----
-
 Dataset
 
 The project uses essays on topics such as Human-Computer Interaction for training.
 
-Features extracted include:
-
-Character and word counts.
+Features extracted include: Character and word counts.
 
 Domain relevance as defined by the ontology.
 
 Semantic similarity.
 
 
-
-
----
-
 Results
 
-Supervised learning achieved 47.16% similarity, outperforming unsupervised approaches.
+Supervised learning achieved best similarity, outperforming unsupervised approaches.
+
 
 Key insights:
 
@@ -115,11 +103,7 @@ Essays with higher word counts and domain-relevant vocabulary score higher.
 Ontology-driven evaluation ensures precision in assessing essay quality.
 
 
-
-
----
-
-Future Scope
+Future Scope:
 
 Incorporate advanced sentiment analysis and context understanding.
 
@@ -128,18 +112,8 @@ Expand datasets to evaluate system robustness.
 Add student feedback recommendations for improved essay writing.
 
 
-
----
-
-References
+References:
 
 OntoGen Tool: Download
 
 Research Paper: "Automated Essay Scoring with Ontology based on Text Mining and NLTK tools" (see accompanying document).
-
-
-
----
-
-For more details, refer to the documentation or contact Mudasir.
-
