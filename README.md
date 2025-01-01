@@ -80,7 +80,7 @@ ict.py --input new_essay.txt
 
 
 
-Dataset
+Dataset:
 
 The project uses essays on topics such as Human-Computer Interaction for training.
 
@@ -91,7 +91,7 @@ Domain relevance as defined by the ontology.
 Semantic similarity.
 
 
-Results
+Results:
 
 Supervised learning achieved best similarity, outperforming unsupervised approaches.
 
