@@ -41,43 +41,10 @@ Linear Regression model predicts scores based on extracted features.
 Output aligns essay content with the most relevant ontology concepts.
 
 
-Installation
-
-1. Clone the repository.
-
-git clone <repositorhttps://github.com/MudasirNaeem1/KnowledgeRepresentationandReasoning-ML-AutomaticEssayEvaluation-ResearchPaperImplementation/tree/mainy-link>
-
-
-2. Install dependencies:
-
-pip install -r requirements.txt
-
-
-3. Download the OntoGen tool and ontology dataset:
+5. Download the OntoGen tool and ontology dataset:
 
 OntoGen Tool : https://ailab.ijs.si/wp-content/uploads/2022/05/OntoGen2-2007-11-22.zip
 Dataset : Download form Repository files
-
-
-Usage:
-
-1. Place the .rdf ontology file in the /ontology directory.
-
-
-2. Run the preprocessing script to clean and tokenize essays:
-
-python preprocess.py --input essays.csv --output processed_essays.csv
-
-
-3. Train and test the model:
-
-python train_model.py --data processed_essays.csv --ontology ontology/rdf_file.rdf
-
-
-4. Predict scores for new essays:
-
-ict.py --input new_essay.txt
-
 
 
 Dataset:
