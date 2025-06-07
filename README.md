@@ -249,7 +249,7 @@ python essay_evaluation.py
 
 ---
 
-## 🤝 **Connect & Collaborate**
+## 🌐 **Connect & Collaborate**
 
 <div align="center">
   
@@ -267,4 +267,12 @@ python essay_evaluation.py
   
   Have questions about the implementation? 💭 **Let's discuss!**
   
+</div>
+<div align="center">  
+  
+  Found this project interesting? ⭐ **Star the repository!**
+  
+  Have suggestions? 💭 **Reach out!**
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MudasirNaeem1.MachineLearning-Automatic-Essay-Evaluation)
 </div>
